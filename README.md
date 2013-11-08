@@ -1,4 +1,4 @@
-oj.FacebookLikeButton
-=====================
+oj.FacebookButton
+============
 
-Facebook like button plugin for OJ
+A Facebook button plugin for OJ

@@ -1,0 +1,19 @@
+{
+  "name": "oj-facebook-button",
+  "version": "0.0.1",
+  "main": "oj.FacebookButton.js",
+  "description": "Facebook button plugin for OJ",
+  "homepage": "http://ojjs.org/plugins.html#FacebookButton",
+  "keywords": [
+    "oj",
+    "plugin",
+    "facebook",
+    "like",
+    "button"
+  ],
+  "author": "Evan Moran <evan@evanmoran.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ojjs/oj.FacebookButton.git"
+  }
+}
